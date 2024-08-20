@@ -173,6 +173,45 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -564,7 +603,25 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      COH_Main_menu (12)_0: 4821088931104070667
+      COH_Main_menu (12)_1: 6453076696178316305
+      COH_Main_menu (12)_10: -8434356890778521743
+      COH_Main_menu (12)_11: -2492119098197087105
+      COH_Main_menu (12)_12: -6816009290618873969
+      COH_Main_menu (12)_13: 6980276324444747169
+      COH_Main_menu (12)_14: 1791881998087720531
+      COH_Main_menu (12)_15: -352691939781455591
+      COH_Main_menu (12)_16: -9070354726350390576
+      COH_Main_menu (12)_17: 9222900732812692076
+      COH_Main_menu (12)_2: 8019632937078151761
+      COH_Main_menu (12)_3: -8579076158150226931
+      COH_Main_menu (12)_4: -2752912574034062955
+      COH_Main_menu (12)_5: -1994864817697196576
+      COH_Main_menu (12)_6: -4424840567965838524
+      COH_Main_menu (12)_7: 271744856517097046
+      COH_Main_menu (12)_8: -5436736992270165775
+      COH_Main_menu (12)_9: -4961764305469634530
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

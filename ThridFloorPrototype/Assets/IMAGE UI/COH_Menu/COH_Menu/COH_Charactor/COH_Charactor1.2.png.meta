@@ -164,6 +164,45 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -492,7 +531,22 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      COH_Charactor1.2_0: -126202750585795457
+      COH_Charactor1.2_1: -2868969381480078294
+      COH_Charactor1.2_10: -6162165534386001246
+      COH_Charactor1.2_11: 3297907217773292417
+      COH_Charactor1.2_12: 1106833701400456030
+      COH_Charactor1.2_13: -1039720453171186435
+      COH_Charactor1.2_14: 4916311780119396990
+      COH_Charactor1.2_2: -2900634409532784389
+      COH_Charactor1.2_3: -6732622356439002325
+      COH_Charactor1.2_4: -4799203930018712306
+      COH_Charactor1.2_5: 2244904174251389076
+      COH_Charactor1.2_6: 1437582458977993942
+      COH_Charactor1.2_7: 8460430446280534131
+      COH_Charactor1.2_8: 4026514709204521890
+      COH_Charactor1.2_9: 157271738349060569
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

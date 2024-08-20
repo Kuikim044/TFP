@@ -278,6 +278,45 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1404,7 +1443,60 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      map1.1_0: -7276241165230966247
+      map1.1_1: 2010851219080511406
+      map1.1_10: -5761558352648839600
+      map1.1_11: -6959356776959298597
+      map1.1_12: -5828904301928586313
+      map1.1_13: 4107638463999395119
+      map1.1_14: 1858584172337182338
+      map1.1_15: 2434435893678225881
+      map1.1_16: 1837964388691851032
+      map1.1_17: -7496508659390222062
+      map1.1_18: 8095491671069334328
+      map1.1_19: -5789006014926404982
+      map1.1_2: -5726603759225227299
+      map1.1_20: -7859443851465237729
+      map1.1_21: 5605703913048874079
+      map1.1_22: 3125727949290353115
+      map1.1_23: 1166109809484255094
+      map1.1_24: 944688405523351901
+      map1.1_25: 4641440907904852262
+      map1.1_26: -6593034267786033364
+      map1.1_27: 7914453152229273895
+      map1.1_28: 1674090737464169
+      map1.1_29: 810087434720338600
+      map1.1_3: 6588385807036610203
+      map1.1_30: 6226531952382921369
+      map1.1_31: 1126695076118492390
+      map1.1_32: 6809876496123081761
+      map1.1_33: -3273254505391947196
+      map1.1_34: -3260436675975159511
+      map1.1_35: 2191928323391673533
+      map1.1_36: -4064018459394584643
+      map1.1_37: 7581960005574029840
+      map1.1_38: 1881497219661700901
+      map1.1_39: -9212603151640652309
+      map1.1_4: -1748211485347746827
+      map1.1_40: 388572042165482169
+      map1.1_41: -2767783572278082379
+      map1.1_42: -277574477359312700
+      map1.1_43: 3397977422785505327
+      map1.1_44: -1464845107329899117
+      map1.1_45: -7379299021948746563
+      map1.1_46: 5463598477260365513
+      map1.1_47: 688583068415405360
+      map1.1_48: 975507115789781204
+      map1.1_49: 7671003909820424682
+      map1.1_5: -2111044477864271422
+      map1.1_50: 2787835665955631403
+      map1.1_51: 4560783732059543235
+      map1.1_52: -3545361012558972531
+      map1.1_6: -3720006178855186850
+      map1.1_7: 936626115203173841
+      map1.1_8: 2268408366817271556
+      map1.1_9: 3040210069504376991
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

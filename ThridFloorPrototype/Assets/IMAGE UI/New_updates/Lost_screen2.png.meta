@@ -170,6 +170,45 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -540,7 +579,24 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lost_screen2_0: -7963509095301713427
+      Lost_screen2_1: -1081398104935171486
+      Lost_screen2_10: 7660639011917128095
+      Lost_screen2_11: -8187370101724075348
+      Lost_screen2_12: -2163983612538642809
+      Lost_screen2_13: 5158773902817646626
+      Lost_screen2_14: -4950131757486989473
+      Lost_screen2_15: 6571453452778534188
+      Lost_screen2_16: -4136233790043615942
+      Lost_screen2_2: -200969999526591900
+      Lost_screen2_3: -1015599996466153185
+      Lost_screen2_4: 6764420813222748133
+      Lost_screen2_5: 4791624077093440782
+      Lost_screen2_6: 8739344228028952385
+      Lost_screen2_7: -4402202580334888763
+      Lost_screen2_8: 4720062871797038588
+      Lost_screen2_9: -3650741657727944811
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

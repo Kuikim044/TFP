@@ -38,7 +38,7 @@ namespace GooglePlayGames {
 
         public const string ApplicationId = "269763915013"; // Filled in automatically
         public const string IosClientId = "__IOS_CLIENTID__"; // Filled in automatically
-        public const string WebClientId = "269763915013-se1ui4akunub2vma4urtfe1qfmsatkg2.apps.googleusercontent.com"; // Filled in automatically
+        public const string WebClientId = "269763915013-v0egu9kfk0tpc0kbclve46om27hb5bks.apps.googleusercontent.com"; // Filled in automatically
         public const string NearbyConnectionServiceId = "com.ThirdFloorPrototype.CastleHero";
 
         public static bool ApplicationIdInitialized() {

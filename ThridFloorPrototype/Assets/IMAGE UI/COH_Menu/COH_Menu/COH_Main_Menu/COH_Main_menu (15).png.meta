@@ -296,6 +296,45 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1548,7 +1587,66 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      COH_Main_menu (15)_0: 3541623696888513173
+      COH_Main_menu (15)_1: -5143315540182586390
+      COH_Main_menu (15)_10: -5968533349745706928
+      COH_Main_menu (15)_11: -2572445602203213399
+      COH_Main_menu (15)_12: -8345522115540614675
+      COH_Main_menu (15)_13: 8901761571226337301
+      COH_Main_menu (15)_14: -124742550219348769
+      COH_Main_menu (15)_15: -4473386394425622800
+      COH_Main_menu (15)_16: -6718924589398168881
+      COH_Main_menu (15)_17: -2412978225723307439
+      COH_Main_menu (15)_18: 2379579491925738219
+      COH_Main_menu (15)_19: 3086914221694258577
+      COH_Main_menu (15)_2: -3086749408370593993
+      COH_Main_menu (15)_20: -8919377646069974688
+      COH_Main_menu (15)_21: -6393360653567963562
+      COH_Main_menu (15)_22: -3061964217878907910
+      COH_Main_menu (15)_23: -429622775607057658
+      COH_Main_menu (15)_24: 5310036473981286242
+      COH_Main_menu (15)_25: 3013576547954659890
+      COH_Main_menu (15)_26: 7369043374742224266
+      COH_Main_menu (15)_27: -5797410102546927204
+      COH_Main_menu (15)_28: 4318708585936864428
+      COH_Main_menu (15)_29: -4801301558237280448
+      COH_Main_menu (15)_3: -3708422783395929377
+      COH_Main_menu (15)_30: -9146229566718138732
+      COH_Main_menu (15)_31: -6758960566020557317
+      COH_Main_menu (15)_32: 7443762753209969016
+      COH_Main_menu (15)_33: -4705818259815552390
+      COH_Main_menu (15)_34: -913145531753738736
+      COH_Main_menu (15)_35: 9136785089058500062
+      COH_Main_menu (15)_36: 7482194722836452373
+      COH_Main_menu (15)_37: -4001520457041483709
+      COH_Main_menu (15)_38: 8898751224690523004
+      COH_Main_menu (15)_39: 8450515088043373135
+      COH_Main_menu (15)_4: -4308839368311430820
+      COH_Main_menu (15)_40: 3954974156697035138
+      COH_Main_menu (15)_41: -5490567572123637121
+      COH_Main_menu (15)_42: -6586459845017925214
+      COH_Main_menu (15)_43: 8435678755169234980
+      COH_Main_menu (15)_44: 8767222745264549385
+      COH_Main_menu (15)_45: 8563046049542537159
+      COH_Main_menu (15)_46: 2834801479076545653
+      COH_Main_menu (15)_47: 4652780008796485965
+      COH_Main_menu (15)_48: -2676197432457528034
+      COH_Main_menu (15)_49: -2202782911845125951
+      COH_Main_menu (15)_5: -2445071405941274926
+      COH_Main_menu (15)_50: 3427602400846022267
+      COH_Main_menu (15)_51: 6229660259204942432
+      COH_Main_menu (15)_52: 2833574547109712573
+      COH_Main_menu (15)_53: 5570229925675648675
+      COH_Main_menu (15)_54: -1289873301398152849
+      COH_Main_menu (15)_55: -7377573652818878108
+      COH_Main_menu (15)_56: 423883293352443842
+      COH_Main_menu (15)_57: -8563285609350361276
+      COH_Main_menu (15)_58: 4335148999322846987
+      COH_Main_menu (15)_6: -6500529905871426873
+      COH_Main_menu (15)_7: 3907857716080103745
+      COH_Main_menu (15)_8: 7286181408248833401
+      COH_Main_menu (15)_9: 7191169432142743156
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

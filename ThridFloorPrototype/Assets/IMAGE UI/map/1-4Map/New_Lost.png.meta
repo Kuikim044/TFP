@@ -179,6 +179,45 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -612,7 +651,27 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      New_Lost_0: -8552147571126107484
+      New_Lost_1: -1019593831181965042
+      New_Lost_10: 3032761653018562192
+      New_Lost_11: -3079754288304678008
+      New_Lost_12: -3833816500030827323
+      New_Lost_13: 2933325228654559810
+      New_Lost_14: -7275416760700830276
+      New_Lost_15: 833304885134558454
+      New_Lost_16: -4743168105680429305
+      New_Lost_17: -5603403293278946271
+      New_Lost_18: 4597162990013712939
+      New_Lost_19: -7482974844993519627
+      New_Lost_2: -6616863814420820081
+      New_Lost_3: -1046289862895196750
+      New_Lost_4: 3170458502351664629
+      New_Lost_5: 4069753795848503240
+      New_Lost_6: -6986029219243320390
+      New_Lost_7: -3049824652053871002
+      New_Lost_8: 8336267188309975185
+      New_Lost_9: -2615047209274632597
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

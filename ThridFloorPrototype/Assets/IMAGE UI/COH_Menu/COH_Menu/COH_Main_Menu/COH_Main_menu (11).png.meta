@@ -260,6 +260,45 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1260,7 +1299,54 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      COH_Main_menu (11)_0: -7646972617052710058
+      COH_Main_menu (11)_1: 3987987595522668822
+      COH_Main_menu (11)_10: -164848234840730536
+      COH_Main_menu (11)_11: 4767415336370486321
+      COH_Main_menu (11)_12: 6452898827402284287
+      COH_Main_menu (11)_13: 7368728501689262351
+      COH_Main_menu (11)_14: 1575803647342007886
+      COH_Main_menu (11)_15: 6682529484220641442
+      COH_Main_menu (11)_16: -3044317243470528381
+      COH_Main_menu (11)_17: 1097618709513209423
+      COH_Main_menu (11)_18: -1580847554023827070
+      COH_Main_menu (11)_19: -4972768746836873005
+      COH_Main_menu (11)_2: 4174406514901466564
+      COH_Main_menu (11)_20: 4458607914966632766
+      COH_Main_menu (11)_21: -2112009758027144132
+      COH_Main_menu (11)_22: 821149667534939677
+      COH_Main_menu (11)_23: 4396933498162138310
+      COH_Main_menu (11)_24: 8289972032121562524
+      COH_Main_menu (11)_25: -2737174818164169124
+      COH_Main_menu (11)_26: -5418868483459614582
+      COH_Main_menu (11)_27: 7971095442997602965
+      COH_Main_menu (11)_28: -2213228839394274262
+      COH_Main_menu (11)_29: -6343673725185993128
+      COH_Main_menu (11)_3: 8127799730827336266
+      COH_Main_menu (11)_30: 4829229676612424097
+      COH_Main_menu (11)_31: -524029512464381896
+      COH_Main_menu (11)_32: -1693812607511565816
+      COH_Main_menu (11)_33: 6874880824619967948
+      COH_Main_menu (11)_34: -1000317743596686710
+      COH_Main_menu (11)_35: -6292431472200628429
+      COH_Main_menu (11)_36: -8577499748457670226
+      COH_Main_menu (11)_37: -8546493486832711125
+      COH_Main_menu (11)_38: 4314262188879285135
+      COH_Main_menu (11)_39: 3023556773601689923
+      COH_Main_menu (11)_4: 8388571983121237600
+      COH_Main_menu (11)_40: -5735995465206681377
+      COH_Main_menu (11)_41: -3727040383780712040
+      COH_Main_menu (11)_42: 798311604168198230
+      COH_Main_menu (11)_43: 8530922387387597235
+      COH_Main_menu (11)_44: 6507736943626401202
+      COH_Main_menu (11)_45: -2224407821890167784
+      COH_Main_menu (11)_46: 4194325114907908247
+      COH_Main_menu (11)_5: -6597823936450841726
+      COH_Main_menu (11)_6: 8223057253858668948
+      COH_Main_menu (11)_7: 497516761951119634
+      COH_Main_menu (11)_8: -7057797974780125615
+      COH_Main_menu (11)_9: 1219003830909915577
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
